@@ -1,0 +1,61 @@
+{
+  "apps": [
+    {
+      "name": "Instagram",
+      "config": {
+        "client_id": "YOUR_INSTAGRAM_CLIENT_ID",
+        "client_secret": "YOUR_INSTAGRAM_CLIENT_SECRET",
+        "redirect_uri": "YOUR_INSTAGRAM_REDIRECT_URI"
+      }
+    },
+    {
+      "name": "Facebook",
+      "config": {
+        "app_id": "YOUR_FACEBOOK_APP_ID",
+        "app_secret": "YOUR_FACEBOOK_APP_SECRET",
+        "redirect_uri": "YOUR_FACEBOOK_REDIRECT_URI"
+      }
+    },
+    {
+      "name": "WhatsApp",
+      "config": {
+        "whatsapp_number": "YOUR_WHATSAPP_NUMBER"
+      }
+    },
+    {
+      "name": "Twitter",
+      "config": {
+        "api_key": "YOUR_TWITTER_API_KEY",
+        "api_secret_key": "YOUR_TWITTER_API_SECRET_KEY",
+        "access_token": "YOUR_TWITTER_ACCESS_TOKEN",
+        "access_token_secret": "YOUR_TWITTER_ACCESS_TOKEN_SECRET"
+      }
+    },
+    {
+      "name": "YouTube",
+      "config": {
+        "api_key": "YOUR_YOUTUBE_API_KEY"
+      }
+    },
+    {
+      "name": "Gmail",
+      "config": {
+        "client_id": "YOUR_GMAIL_CLIENT_ID",
+        "client_secret": "YOUR_GMAIL_CLIENT_SECRET",
+        "redirect_uri": "YOUR_GMAIL_REDIRECT_URI"
+      }
+    },
+    {
+      "name": "Chrome",
+      "config": {
+        "extension_id": "YOUR_CHROME_EXTENSION_ID"
+      }
+    },
+    {
+      "name": "Google Maps",
+      "config": {
+        "api_key": "YOUR_GOOGLE_MAPS_API_KEY"
+      }
+    }
+  ]
+}
